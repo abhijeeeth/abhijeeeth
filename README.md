@@ -15,6 +15,8 @@
 - 🚀 Building scalable **Flutter apps** with clean architecture
 - 🤖 Passionate about **AI & Data Science**
 - 🎨 Crafting **elegant UI/UX** experiences
+- 🗺️ Exploring **Google Maps API** & location-based services
+
 ---
 
 ### Tech Stack
@@ -44,6 +46,12 @@
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhijeeeth&theme=tokyo-night&utcOffset=8" alt="Productive Time" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-pie?username=abhijeeeth&theme=tokyo-night" alt="Commit Pie Chart" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijeeeth&theme=tokyo-night" alt="Profile Details" />
 </p>
 
 ---
