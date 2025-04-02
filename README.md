@@ -39,7 +39,7 @@
 
 ### GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeeeth&theme=tokyo-night&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeeeth&theme=tokyo-night&area=true&custom_title=GitHub%20Activity%20(Monthly)&interval=monthly" alt="GitHub Activity Graph" />
 </p>
 
 ---
