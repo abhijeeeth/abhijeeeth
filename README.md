@@ -15,8 +15,6 @@
 - 🚀 Building scalable **Flutter apps** with clean architecture
 - 🤖 Passionate about **AI & Data Science**
 - 🎨 Crafting **elegant UI/UX** experiences
-- 🗺️ Exploring **Google Maps API** & location-based services
-
 ---
 
 ### Tech Stack
@@ -39,7 +37,13 @@
 
 ### GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeeeth&theme=tokyo-night&area=true&custom_title=GitHub%20Activity%20(Monthly)&interval=monthly" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeeeth&theme=tokyo-night" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhijeeeth&theme=tokyo-night" alt="Most Used Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhijeeeth&theme=tokyo-night&utcOffset=8" alt="Productive Time" />
 </p>
 
 ---
