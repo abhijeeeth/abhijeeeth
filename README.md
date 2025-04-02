@@ -37,6 +37,13 @@
 
 ---
 
+### GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeeeth&theme=tokyo-night&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ### Connect With Me
 <p align="center">
   <a href="https://abhijith-theta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logoColor=white" /></a>
