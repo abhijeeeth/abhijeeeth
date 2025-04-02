@@ -42,10 +42,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeeeth&theme=tokyo-night" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhijeeeth&theme=tokyo-night" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhijeeeth&theme=tokyo-night&variant=bar" alt="Most Used Languages" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhijeeeth&theme=tokyo-night&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhijeeeth&theme=tokyo-night&variant=bar&utcOffset=8" alt="Productive Time" />
 </p>
 
 ---
