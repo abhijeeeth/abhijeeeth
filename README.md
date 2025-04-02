@@ -45,9 +45,9 @@
 
 ---
 
-### ✨ GitHub Streak  
+### 🔥 GitHub Contributions  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhijeeeth&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeeeth&theme=github-dark" alt="GitHub Contribution Graph" />
 </p>
 
 ---
