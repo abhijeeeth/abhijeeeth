@@ -42,16 +42,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeeeth&theme=tokyo-night" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhijeeeth&theme=tokyo-night" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhijeeeth&theme=tokyo-night&type=bar" alt="Most Used Languages" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhijeeeth&theme=tokyo-night&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhijeeeth&theme=tokyo-night&utcOffset=8&type=bar" alt="Productive Time" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-pie?username=abhijeeeth&theme=tokyo-night" alt="Commit Pie Chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-bar?username=abhijeeeth&theme=tokyo-night" alt="Commit Bar Chart" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijeeeth&theme=tokyo-night" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijeeeth&theme=tokyo-night&type=bar" alt="Profile Details" />
 </p>
 
 ---
